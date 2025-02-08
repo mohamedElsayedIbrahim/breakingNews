@@ -1,0 +1,22 @@
+
+.d-flex{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.warper{
+  padding: 0.25rem 1rem;
+}
+
+.pagelist{
+  list-style: none;
+  display: flex;
+  gap:0.5rem;
+}
+
+.footer{
+  color: #fff;
+  background-color: black;
+  padding: 3rem;
+  text-align: center;
+}
