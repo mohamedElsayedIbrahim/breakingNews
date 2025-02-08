@@ -1,5 +1,5 @@
 export default function NewsCard() {
   return (
-    <div>NewsCard</div>
+    <div className="container">NewsCard</div>
   )
 }
