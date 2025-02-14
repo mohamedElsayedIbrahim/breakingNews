@@ -1,7 +1,10 @@
-import React from 'react'
 
 export default function Footer() {
   return (
-    <div className='footer'>Footer</div>
+    <div className='footer'>
+      
+      &copy; are rversed 2025
+
+    </div>
   )
 }
